@@ -17,4 +17,5 @@
     <string name="eight_number_button">8</string>
     <string name="nine_number_button">9</string>
     <string name="zero_number_input_text">0</string>
+    <string name="app_error">Error</string>
 </resources>
