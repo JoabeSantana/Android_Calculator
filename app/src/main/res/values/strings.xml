@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="clear_button">C</string>
+    <string name="equal_button">=</string>
+    <string name="addition_button">+</string>
+    <string name="subtraction_button">-</string>
+    <string name="division_button">/</string>
+    <string name="multiplication_button">X</string>
+    <string name="zero_number_button">0</string>
+    <string name="one_number_button">1</string>
+    <string name="two_number_button">2</string>
+    <string name="three_number_button">3</string>
+    <string name="four_number_button">4</string>
+    <string name="five_number_button">5</string>
+    <string name="six_number_button">6</string>
+    <string name="seven_number_button">7</string>
+    <string name="eight_number_button">8</string>
+    <string name="nine_number_button">9</string>
+    <string name="zero_number_input_text">0</string>
 </resources>
